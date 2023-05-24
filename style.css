@@ -1,0 +1,106 @@
+* {
+  box-sizing: border-box;
+}
+
+.container .title-wrapper {
+  gap: 20px;
+}
+.container .title-wrapper h2 {
+  color: rgb(0, 200, 200);
+  font-size: 40px;
+  font-weight: 200;
+}
+.container .title-wrapper p {
+  font-size: 12px;
+  font-weight: 700;
+  opacity: 0.5;
+}
+.container .card-wrapper {
+  cursor: pointer;
+  text-align: center;
+  background-color: rgb(242, 241, 241);
+}
+.container .card-wrapper .header-wrapper h5 {
+  color: rgb(0, 200, 200);
+  font-size: 15px;
+  font-weight: 700;
+}
+.container .card-wrapper .description-wrapper p {
+  font-size: 12px;
+  font-weight: 400;
+}
+.container .card-wrapper .date-comment-wrapper {
+  opacity: 0.5;
+  font-size: 10px;
+}
+.container .card-wrapper .date-comment-wrapper .date-wrapper {
+  gap: 5px;
+}
+.container .card-wrapper .date-comment-wrapper .comments-wrapper {
+  gap: 5px;
+}
+
+footer {
+  padding: 20px;
+  background-color: rgb(22, 171, 171);
+}
+footer .info-wrapper {
+  gap: 20px;
+  padding: 10px;
+}
+footer h3 {
+  font-size: 20px;
+}
+footer li {
+  color: white;
+  font-size: 14px;
+}
+footer .footer-title-wrapper {
+  color: white;
+  font-weight: 600;
+  font-size: 30px;
+  padding-bottom: 10px;
+}
+footer .btn {
+  color: rgb(22, 192, 192);
+}
+footer p {
+  font-size: 14px;
+  color: white;
+}
+footer .address-wrapper {
+  gap: 10px;
+}
+footer .address-wrapper i {
+  color: white;
+}
+footer .phone-number-wrapper {
+  gap: 10px;
+}
+footer .phone-number-wrapper i {
+  color: white;
+}
+footer .email-wrapper {
+  gap: 10px;
+}
+footer .email-wrapper i {
+  color: white;
+}
+footer .input-group i {
+  padding: 10px;
+  color: rgb(212, 211, 211);
+  min-width: 50px;
+  text-align: center;
+}
+footer .icons-wrapper {
+  color: rgb(22, 192, 192);
+  gap: 30px;
+  font-size: 20px;
+  padding: 20px;
+  border-bottom: 1px solid whitesmoke;
+}
+footer .icons-wrapper i {
+  background-color: white;
+  border-radius: 50%;
+  padding: 25px;
+}/*# sourceMappingURL=style.css.map */
